@@ -1,1 +1,6 @@
 log/
+*.orig
+simple_BACKUP_3244.html
+simple_BASE_3244.html
+simple_LOCAL_3244.html
+simple_REMOTE_3244.html
