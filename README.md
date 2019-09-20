@@ -22,4 +22,6 @@ file system.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull request for review.
+
 2014 Git.Training.
